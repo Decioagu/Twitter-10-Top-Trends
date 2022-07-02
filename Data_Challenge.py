@@ -3,7 +3,7 @@ from secrets import CONSUMER_KEY, CONSUMER_SECRET, ACCESS_TOKEN, ACESS_TOKEN_SEC
 import tweepy
 from datetime import datetime
 
-# Código de cores
+# Código de coresposta
 limpar = '\033[m'
 amarelo_claro = '\033[93m'
 roxo = '\033[35m'
